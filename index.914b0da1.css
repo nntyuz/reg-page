@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "Museo Sans Cyrl";
+  font-style: normal;
+  font-weight: 100;
+  src: local(""), url("MuseoSansCyrl-100.eb74c582.woff2") format("woff2"), url("MuseoSansCyrl100.7dae789e.woff") format("woff");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Museo Sans Cyrl";
+  font-style: normal;
+  font-weight: 300;
+  src: local(""), url("MuseoSansCyrl-300.4d48876c.woff2") format("woff2"), url("MuseoSansCyrl300.d8524dff.woff") format("woff");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Museo Sans Cyrl";
+  font-style: normal;
+  font-weight: 500;
+  src: local(""), url("MuseoSansCyrl-500.7d9245b2.woff2") format("woff2"), url("MuseoSansCyrl500.03a359a3.woff") format("woff");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Museo Sans Cyrl";
+  font-style: normal;
+  font-weight: 700;
+  src: local(""), url("MuseoSansCyrl-700.428862a8.woff2") format("woff2"), url("MuseoSansCyrl700.f88d5fb8.woff") format("woff");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Museo Sans Cyrl";
+  font-style: normal;
+  font-weight: 900;
+  src: local(""), url("MuseoSansCyrl-900.d51e68c6.woff2") format("woff2"), url("MuseoSansCyrl900.81897e4c.woff") format("woff");
+  font-display: swap;
+}
+/*# sourceMappingURL=index.914b0da1.css.map */
